@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\bin\Debug\net8.0\s2ej1.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\bin\Debug\net8.0\s2ej1.deps.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\bin\Debug\net8.0\s2ej1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\bin\Debug\net8.0\s2ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\bin\Debug\net8.0\s2ej1.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\refint\s2ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\s2ej1.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\s2ej1\obj\Debug\net8.0\ref\s2ej1.dll

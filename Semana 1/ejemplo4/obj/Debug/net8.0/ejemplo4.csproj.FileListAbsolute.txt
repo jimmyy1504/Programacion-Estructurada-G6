@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\bin\Debug\net8.0\ejemplo4.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\bin\Debug\net8.0\ejemplo4.deps.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\bin\Debug\net8.0\ejemplo4.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\bin\Debug\net8.0\ejemplo4.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\bin\Debug\net8.0\ejemplo4.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\refint\ejemplo4.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ejemplo4.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\ejemplo4\obj\Debug\net8.0\ref\ejemplo4.dll
