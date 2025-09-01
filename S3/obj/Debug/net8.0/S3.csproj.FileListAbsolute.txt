@@ -1,0 +1,5 @@
+C:\Users\jlsel\Desktop\ProgramacionEstructurada\S3\obj\Debug\net8.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlsel\Desktop\ProgramacionEstructurada\S3\obj\Debug\net8.0\S3.AssemblyInfoInputs.cache
+C:\Users\jlsel\Desktop\ProgramacionEstructurada\S3\obj\Debug\net8.0\S3.AssemblyInfo.cs
+C:\Users\jlsel\Desktop\ProgramacionEstructurada\S3\obj\Debug\net8.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\Desktop\ProgramacionEstructurada\S3\obj\Debug\net8.0\S3.sourcelink.json
