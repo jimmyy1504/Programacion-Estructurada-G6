@@ -1,0 +1,14 @@
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\bin\Debug\net8.0\FuncionConsola.exe
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\bin\Debug\net8.0\FuncionConsola.deps.json
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\bin\Debug\net8.0\FuncionConsola.runtimeconfig.json
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\bin\Debug\net8.0\FuncionConsola.dll
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\bin\Debug\net8.0\FuncionConsola.pdb
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.AssemblyInfoInputs.cache
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.AssemblyInfo.cs
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.dll
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\refint\FuncionConsola.dll
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.pdb
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\FuncionConsola.genruntimeconfig.cache
+C:\Users\jlsel\source\repos\Semana4\FuncionConsola\obj\Debug\net8.0\ref\FuncionConsola.dll
