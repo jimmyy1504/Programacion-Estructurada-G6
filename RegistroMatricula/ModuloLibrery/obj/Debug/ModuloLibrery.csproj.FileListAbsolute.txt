@@ -1,0 +1,6 @@
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\bin\Debug\ModuloLibrery.dll
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\bin\Debug\ModuloLibrery.pdb
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\obj\Debug\ModuloLibrery.csproj.AssemblyReference.cache
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\obj\Debug\ModuloLibrery.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\obj\Debug\ModuloLibrery.dll
+C:\Users\jlsel\source\repos\RegistroMatricula\ModuloLibrery\obj\Debug\ModuloLibrery.pdb

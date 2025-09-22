@@ -1,0 +1,14 @@
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\bin\Debug\MatriculaApp.exe.config
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\bin\Debug\MatriculaApp.exe
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\bin\Debug\MatriculaApp.pdb
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.csproj.AssemblyReference.cache
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.Properties.Resources.resources
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.csproj.GenerateResource.cache
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.exe
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.pdb
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.exe.config
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\MatriculaApp.Carrera.resources
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\bin\Debug\ModuloLibrery.dll
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\bin\Debug\ModuloLibrery.pdb
+C:\Users\jlsel\source\repos\RegistroMatricula\MatriculaApp\obj\Debug\Matricul.5EC983EE.Up2Date
