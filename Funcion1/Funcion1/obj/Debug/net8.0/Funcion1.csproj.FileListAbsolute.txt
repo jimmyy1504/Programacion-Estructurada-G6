@@ -1,0 +1,14 @@
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.AssemblyInfoInputs.cache
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.AssemblyInfo.cs
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\bin\Debug\net8.0\Funcion1.exe
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\bin\Debug\net8.0\Funcion1.deps.json
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\bin\Debug\net8.0\Funcion1.runtimeconfig.json
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\bin\Debug\net8.0\Funcion1.dll
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\bin\Debug\net8.0\Funcion1.pdb
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.dll
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\refint\Funcion1.dll
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.pdb
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\Funcion1.genruntimeconfig.cache
+C:\Users\jlsel\source\repos\Funcion1\Funcion1\obj\Debug\net8.0\ref\Funcion1.dll
