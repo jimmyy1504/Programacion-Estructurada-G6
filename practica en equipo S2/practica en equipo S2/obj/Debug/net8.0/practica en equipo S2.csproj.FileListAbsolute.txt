@@ -1,0 +1,4 @@
+C:\Users\jlsel\source\repos\practica en equipo S2\practica en equipo S2\obj\Debug\net8.0\practica en equipo S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlsel\source\repos\practica en equipo S2\practica en equipo S2\obj\Debug\net8.0\practica en equipo S2.AssemblyInfoInputs.cache
+C:\Users\jlsel\source\repos\practica en equipo S2\practica en equipo S2\obj\Debug\net8.0\practica en equipo S2.AssemblyInfo.cs
+C:\Users\jlsel\source\repos\practica en equipo S2\practica en equipo S2\obj\Debug\net8.0\practica en equipo S2.csproj.CoreCompileInputs.cache
